@@ -13,12 +13,12 @@
   <img src="https://img.shields.io/badge/Git flow-F05032?style=flat-square&logo=Git&logoColor=white"/></br></br>
   
   
-  <h3> contact 💬</h3>
+  <h3> Contact 💬</h3>
   
   <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/> </br></br>
   
-  <h3> 1 day 1 commit 🌱</h3>
+  <h3> 1 Day 1 Commit 🌱</h3>
   
   [![commit combo](http://commitcombo.com/get?user=kyileeyu&theme=Peach-mini)](https://github.com/devxb/commitcombo)
 
