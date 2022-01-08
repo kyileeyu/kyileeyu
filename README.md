@@ -29,5 +29,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgus5514)](https://solved.ac/tmdgus5514)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyileeyu%2Fhit-counter&count_bg=%23DDDDDD&title_bg=%23FFE4F6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
