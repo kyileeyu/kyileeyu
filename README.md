@@ -15,12 +15,20 @@
   <img src="https://img.shields.io/badge/Git flow-F05032?style=flat-square&logo=Git&logoColor=white"/></br></br>
   
   
-  <h3> Contact 💬</h3>
+  <h3> Keep in touch ☺️</h3>
   
-  <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/> </br></br>
-  
-  <h3> 1 Day 1 Commit 🌱</h3>
+  <a href="https://working-yu.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/tmdgus5514">
+      <img src="https://img.shields.io/badge/Daily blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+  <a href="mailto:kyileeeyu@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+   </br></br>
+
+<h3> 1 Day 1 Commit 🌱</h3>
   
   [![commit combo](http://commitcombo.com/get?user=kyileeyu&theme=Peach-mini)](https://github.com/devxb/commitcombo)</br></br>
 
@@ -28,6 +36,6 @@
   <h3>I can do this all day 😎</h3> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgus5514)](https://solved.ac/tmdgus5514)
-
+<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyileeyu%2Fhit-counter&count_bg=%23DDDDDD&title_bg=%23FFE4F6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
