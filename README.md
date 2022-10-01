@@ -30,10 +30,6 @@
   </a>
    </br></br>
 
-<h3> 1 Day 1 Commit 🌱</h3>
-  
-  [![commit combo](http://commitcombo.com/get?user=kyileeyu&theme=Peach-mini)](https://github.com/devxb/commitcombo)</br></br>
-
 
   <h3>I can do this all day 😎</h3> 
 
